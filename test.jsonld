@@ -202,10 +202,6 @@
         "areaCovered": "https://uri.fiware.org/ns/data-models#areaCovered",
         "areaSeperatedFromSurroundings": "https://uri.fiware.org/ns/data-models#areaSeperatedFromSurroundings",
         "areaServed": "https://schema.org/areaServed",
-        "arrivalEstimationUpdate": {
-            "@id": "https://uri.fiware.org/ns/data-models#arrivalEstimationUpdate",
-            "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
-        },
         "arrivalTime": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/arrivalTime",
         "artPeriod": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/artPeriod",
         "as": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/as",
@@ -213,10 +209,6 @@
         "asthmaAttack": "https://uri.fiware.org/ns/data-models#asthmaAttack",
         "astronomicalClock": "https://uri.fiware.org/ns/data-models#astronomicalClock",
         "atmosphericPressure": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/atmosphericPressure",
-        "attributes": {
-            "@id": "https://uri.etsi.org/ngsi-ld/attributes",
-            "@type": "@vocab"
-        },
         "audioguide": "https://uri.fiware.org/ns/data-models#audioguide",
         "auditory": "https://uri.fiware.org/ns/data-models#auditory",
         "autogas": "https://uri.fiware.org/ns/data-models#autogas",
@@ -265,10 +257,6 @@
         "binTrolley": "https://uri.fiware.org/ns/data-models#binTrolley",
         "biodiesel": "https://uri.fiware.org/ns/data-models#biodiesel",
         "biomassPowerGenerated": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/biomassPowerGenerated",
-        "birthdate": {
-            "@id": "https://uri.fiware.org/ns/data-models#birthdate",
-            "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
-        },
         "biweekly": "https://uri.fiware.org/ns/data-models#biweekly",
         "blackSand": "https://uri.fiware.org/ns/data-models#blackSand",
         "block": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/block",
@@ -408,10 +396,6 @@
         "covered": "https://uri.fiware.org/ns/data-models#covered",
         "cow": "https://uri.fiware.org/ns/data-models#cow",
         "cowshed": "https://uri.fiware.org/ns/data-models#cowshed",
-        "createdAt": {
-            "@id": "https://uri.etsi.org/ngsi-ld/createdAt",
-            "@type": "DateTime"
-        },
         "critical": "https://uri.fiware.org/ns/data-models#critical",
         "cropNutrition": "https://uri.fiware.org/ns/data-models#cropNutrition",
         "cropProtection": "https://uri.fiware.org/ns/data-models#cropProtection",
@@ -425,10 +409,6 @@
         "daily": "https://uri.fiware.org/ns/data-models#daily",
         "dailyLight": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/dailyLight",
         "dataProvider": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/dataProvider",
-        "datasetId": {
-            "@id": "https://uri.etsi.org/ngsi-ld/datasetId",
-            "@type": "@id"
-        },
         "dateActivityEnded": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/dateActivityEnded",
         "dateActivityStarted": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/dateActivityStarted",
         "dateCreated": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/dateCreated",
@@ -512,17 +492,9 @@
         "emitterCoefficient": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/emitterCoefficient",
         "employeePermit": "https://uri.fiware.org/ns/data-models#employeePermit",
         "empty": "https://uri.fiware.org/ns/data-models#empty",
-        "end": {
-            "@id": "https://uri.etsi.org/ngsi-ld/end",
-            "@type": "DateTime"
-        },
         "endDate": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/endDate",
         "endKilometer": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/endKilometer",
         "endPoint": "https://uri.fiware.org/ns/data-models#endPoint",
-        "endTime": {
-            "@id": "https://uri.etsi.org/ngsi-ld/endTime",
-            "@type": "DateTime"
-        },
         "endedAt": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/endedAt",
         "endsAt": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/endsAt",
         "energy": "https://uri.fiware.org/ns/data-models#energy",
@@ -533,10 +505,6 @@
         "energyPrice": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/energyPrice",
         "english": "https://uri.fiware.org/ns/data-models#english",
         "entertainment": "https://uri.fiware.org/ns/data-models#entertainment",
-        "entityId": {
-            "@id": "https://uri.etsi.org/ngsi-ld/entityId",
-            "@type": "@id"
-        },
         "environment": "https://uri.fiware.org/ns/data-models#environment",
         "eolicPowerGenerated": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/eolicPowerGenerated",
         "ethanol": "https://uri.fiware.org/ns/data-models#ethanol",
@@ -546,10 +514,6 @@
         "exactTimes": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/exactTimes",
         "exceptionType": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/exceptionType",
         "exhibitonCentre": "https://uri.fiware.org/ns/data-models#exhibitonCentre",
-        "expires": {
-            "@id": "https://uri.etsi.org/ngsi-ld/expires",
-            "@type": "DateTime"
-        },
         "extCategory": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/extCategory",
         "externalSecurity": "https://uri.fiware.org/ns/data-models#externalSecurity",
         "extraSpotNumber": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/extraSpotNumber",
@@ -782,10 +746,6 @@
         "insertHoles": "https://uri.fiware.org/ns/data-models#insertHoles",
         "insertHolesNumber": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/insertHolesNumber",
         "inspection": "https://uri.fiware.org/ns/data-models#inspection",
-        "instanceId": {
-            "@id": "https://uri.etsi.org/ngsi-ld/instanceId",
-            "@type": "@id"
-        },
         "intensity": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/intensity",
         "intensityR": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/intensityR",
         "intensityS": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/intensityS",
@@ -822,24 +782,8 @@
         "lanternManufacturerName": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/lanternManufacturerName",
         "lanternModelName": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/lanternModelName",
         "lanternWeight": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/lanternWeight",
-        "lastFailure": {
-            "@id": "https://uri.etsi.org/ngsi-ld/lastFailure",
-            "@type": "DateTime"
-        },
         "lastMeterReading": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/lastMeterReading",
-        "lastNotification": {
-            "@id": "https://uri.etsi.org/ngsi-ld/lastNotification",
-            "@type": "DateTime"
-        },
         "lastPlantedAt": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/lastPlantedAt",
-        "lastSuccess": {
-            "@id": "https://uri.etsi.org/ngsi-ld/lastSuccess",
-            "@type": "DateTime"
-        },
-        "lastupdatedAt": {
-            "@id": "https://uri.fiware.org/ns/data-models#lastupdatedAt",
-            "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
-        },
         "laternHeight": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/laternHeight",
         "lawnArea": "https://uri.fiware.org/ns/data-models#lawnArea",
         "layout": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/layout",
@@ -944,10 +888,6 @@
         "modelName": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/modelName",
         "moderate": "https://uri.fiware.org/ns/data-models#moderate",
         "modernArt": "https://uri.fiware.org/ns/data-models#modernArt",
-        "modifiedAt": {
-            "@id": "https://uri.etsi.org/ngsi-ld/modifiedAt",
-            "@type": "DateTime"
-        },
         "monastary": "https://uri.fiware.org/ns/data-models#monastary",
         "monastery": "https://uri.fiware.org/ns/data-models#monastery",
         "monday": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/monday",
@@ -994,30 +934,13 @@
         "nonTracked": "https://uri.fiware.org/ns/data-models#nonTracked",
         "none": "https://uri.fiware.org/ns/data-models#none",
         "notAvailable": "https://uri.fiware.org/ns/data-models#notAvailable",
-        "notifiedAt": {
-            "@id": "https://uri.etsi.org/ngsi-ld/notifiedAt",
-            "@type": "DateTime"
-        },
         "noxiousWeed": "https://uri.fiware.org/ns/data-models#noxiousWeed",
         "numismatic": "https://uri.fiware.org/ns/data-models#numismatic",
         "o3": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/o3",
-        "object": {
-            "@id": "https://uri.etsi.org/ngsi-ld/hasObject",
-            "@type": "@id"
-        },
         "objectArea": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/objectArea",
         "objectHeightAverage": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/objectHeightAverage",
         "objectHeightMax": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/objectHeightMax",
         "objectVolume": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/objectVolume",
-        "objects": {
-            "@id": "https://uri.etsi.org/ngsi-ld/hasObjects",
-            "@type": "@id",
-            "@container": "@list"
-        },
-        "observedAt": {
-            "@id": "https://uri.etsi.org/ngsi-ld/observedAt",
-            "@type": "DateTime"
-        },
         "occupancy": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/occupancy",
         "occupancyDetectionType": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/occupancyDetectionType",
         "occupationRate": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/occupationRate",
@@ -1150,10 +1073,6 @@
         "process": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/process",
         "product": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/product",
         "promenade": "https://uri.fiware.org/ns/data-models#promenade",
-        "properties": {
-            "@id": "https://uri.etsi.org/ngsi-ld/properties",
-            "@type": "@vocab"
-        },
         "provider": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/provider",
         "proximitySensor": "https://uri.fiware.org/ns/data-models#proximitySensor",
         "public": "https://uri.fiware.org/ns/data-models#public",
@@ -1278,10 +1197,6 @@
         "refuseBin": "https://uri.fiware.org/ns/data-models#refuseBin",
         "regulation": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/regulation",
         "relatedSource": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/relatedSource",
-        "relationships": {
-            "@id": "https://uri.etsi.org/ngsi-ld/relationships",
-            "@type": "@vocab"
-        },
         "relativeHumidity": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/relativeHumidity",
         "reliability": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/reliability",
         "religiousCentre": "https://uri.fiware.org/ns/data-models#religiousCentre",
@@ -1436,10 +1351,6 @@
         "stadium": "https://uri.fiware.org/ns/data-models#stadium",
         "staffGuidesToSpace": "https://uri.fiware.org/ns/data-models#staffGuidesToSpace",
         "staffed": "https://uri.fiware.org/ns/data-models#staffed",
-        "start": {
-            "@id": "https://uri.etsi.org/ngsi-ld/start",
-            "@type": "DateTime"
-        },
         "startDate": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/startDate",
         "startKilometer": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/startKilometer",
         "startPoint": "https://uri.fiware.org/ns/data-models#startPoint",
@@ -1465,14 +1376,6 @@
         "sty": "https://uri.fiware.org/ns/data-models#sty",
         "style": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/style",
         "subCategory": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/subCategory",
-        "subscriptionId": {
-            "@id": "https://uri.etsi.org/ngsi-ld/subscriptionId",
-            "@type": "@id"
-        },
-        "success": {
-            "@id": "https://uri.etsi.org/ngsi-ld/success",
-            "@type": "@id"
-        },
         "sumptuaryArts": "https://uri.fiware.org/ns/data-models#sumptuaryArts",
         "sunLoungerRental": "https://uri.fiware.org/ns/data-models#sunLoungerRental",
         "sunday": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/sunday",
@@ -1517,10 +1420,6 @@
         "themePark": "https://uri.fiware.org/ns/data-models#themePark",
         "thunderstorms": "https://uri.fiware.org/ns/data-models#thunderstorms",
         "thursday": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/thursday",
-        "time": {
-            "@id": "https://uri.etsi.org/ngsi-ld/time",
-            "@type": "DateTime"
-        },
         "timeStep": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/timeStep",
         "timepoint": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/timepoint",
         "timezone": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/timezone",
@@ -1580,10 +1479,6 @@
         "universitary": "https://uri.fiware.org/ns/data-models#universitary",
         "university": "https://uri.fiware.org/ns/data-models#university",
         "unknown": "https://uri.fiware.org/ns/data-models#unknown",
-        "updatedAt": {
-            "@id": "https://uri.fiware.org/ns/data-models#updatedAt",
-            "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
-        },
         "urban": "https://uri.fiware.org/ns/data-models#urban",
         "urbanDeterrentParking": "https://uri.fiware.org/ns/data-models#urbanDeterrentParking",
         "urbanTransit": "https://uri.fiware.org/ns/data-models#urbanTransit",
@@ -1593,10 +1488,6 @@
         "validFrom": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/validFrom",
         "validTo": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/validTo",
         "validity": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/validity",
-        "values": {
-            "@id": "https://uri.etsi.org/ngsi-ld/hasValues",
-            "@container": "@list"
-        },
         "valveType": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/valveType",
         "van": "https://uri.fiware.org/ns/data-models#van",
         "vehicleConfiguration": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/vehicleConfiguration",
@@ -1629,10 +1520,6 @@
         "warehouse": "https://uri.fiware.org/ns/data-models#warehouse",
         "wasteContainerCleaning": "https://uri.fiware.org/ns/data-models#wasteContainerCleaning",
         "wasteDisposal": "https://uri.fiware.org/ns/data-models#wasteDisposal",
-        "watchedAttributes": {
-            "@id": "https://uri.etsi.org/ngsi-ld/watchedAttributes",
-            "@type": "@vocab"
-        },
         "water": "https://uri.fiware.org/ns/data-models#water",
         "water_dam": "https://uri.fiware.org/ns/data-models#water_dam",
         "waterConsumption": "https://uri.fiware.org/ns/data-models#waterConsumption",
