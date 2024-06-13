@@ -23,7 +23,7 @@
         "scope": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/scope",
         "Building": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Building",
         "subCategory": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/subCategory",
-        "name": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/location",
+        "name": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/name",
         "street": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/street",
         "airQualityLevel": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/airQualityLevel",
         "almostFull": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/almostFull"
