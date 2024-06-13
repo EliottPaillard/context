@@ -2,7 +2,7 @@
     "@context": {
         "subCategory": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/subCategory",
         "location": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/location",
-        "name": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/location",
+        "name": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/name",
         "street": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/street",
         "airQualityLevel": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/airQualityLevel",
         "almostFull": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/almostFull"
