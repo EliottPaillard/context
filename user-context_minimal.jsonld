@@ -1,10 +1,32 @@
 {
     "@context": {
-        "subCategory": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/subCategory",
-        "location": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/location",
-        "name": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/name",
-        "street": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/street",
-        "airQualityLevel": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/airQualityLevel",
-        "almostFull": "https://smart-data-models.github.io/data-models/terms.jsonld#/definitions/almostFull"
+        "temperature": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/temperature",
+        "gps": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/gps",
+        "Streetlight": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Streetlight",
+        "AirQualityObserved": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/AirQualityObserved",
+        "Bus": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Bus",
+        "ContextSourceRegistration": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/ContextSourceRegistration",
+        "street": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/street",
+        "fuelLevel": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/fuelLevel",
+        "speed": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/speed",
+        "Vehicle": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Vehicle",
+        "OffStreetParking": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/OffStreetParking",
+        "reliability": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/reliability",
+        "isParked": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/isParked",
+        "brandName": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/brandName",
+        "totalSpotNumber": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/totalSpotNumber",
+        "providedBy": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/providedBy",
+        "reliability": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/reliability",
+        "availableSpotNumber": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/availableSpotNumber",
+        "TouristDestination": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/TouristDestination",
+        "Parking": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Parking",
+        "scope": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/scope",
+        "Building": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Building",
+        "subCategory": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/subCategory",
+        "location": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/location",
+        "name": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/location",
+        "street": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/street",
+        "airQualityLevel": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/airQualityLevel",
+        "almostFull": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/almostFull"
     }
 }
