@@ -10,7 +10,7 @@
         "fuelLevel": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/fuelLevel",
         "gps": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/gps",
         "hasWeatherObserved": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/hasWeatherObserved",
-        "isNextToParking": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/isNextToParking",
+        "isNextToBuilding": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/isNextToBuilding",
         "isParked": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/isParked",
         "name": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/name",
         "OffStreetParking": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/OffStreetParking",
