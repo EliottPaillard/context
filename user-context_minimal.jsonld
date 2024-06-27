@@ -24,6 +24,6 @@
         "temperature": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/temperature",
         "totalSpotNumber": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/totalSpotNumber",
         "TouristDestination": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/TouristDestination",
-        "Vehicle": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Vehicle",
+        "Vehicle": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Vehicle"
     }
 }
