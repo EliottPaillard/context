@@ -9,6 +9,7 @@
         "Bus": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/Bus",
         "fuelLevel": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/fuelLevel",
         "gps": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/gps",
+        "hasWeatherObserved": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/hasWeatherObserved",
         "isParked": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/isParked",
         "name": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/name",
         "OffStreetParking": "https://eliottpaillard.github.io/context/terms.jsonld#/definitions/OffStreetParking",
